@@ -19,7 +19,7 @@ _**Source**_
 
 **C. Methodology**
 
-- 
+- Idle - Python (local) to create folder & doing basic data cleaning
 
 **D. Key Findings & Actionable Plans**
 
